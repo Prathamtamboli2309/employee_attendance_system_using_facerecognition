@@ -39,7 +39,7 @@ git clone https://github.com/Prathamtamboli2309/employee_attendance_system_using
 ```
 Install Dependencies:
 ```bash
- pip install -r requirements.txt
+ pip install -r requirement.txt
 
 ```
 Run the Application:
