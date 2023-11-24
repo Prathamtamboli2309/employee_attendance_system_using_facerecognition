@@ -1,0 +1,7 @@
+pip install sqlite
+pip install opencv-python==4.5.2
+pip install tkinter
+pip install PIL
+pip install pandas
+pip install pywhatkit
+pip install pyautogui
