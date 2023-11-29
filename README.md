@@ -4,6 +4,49 @@
 This project is an advanced Employee Attendance System leveraging the power of face recognition technology. Built entirely with Python and incorporating machine learning algorithms, it offers a seamless and efficient solution for tracking employee attendance.
 
 
+## Table of Content
+
+- Overview
+- Built With
+- Getting Started
+- Installation
+- Features
+
+
+
+## Overview
+
+- The optimisation of personnel management in today's dynamic organisations depends on the seamless integration of technology. This study presents a novel face recognition system that redefines employee authentication, job distribution, and attendance tracking. It is enhanced by the Local Binary Pattern Histogram (LBPH) method. Using a strong SQLite3 database and the power of  Python, our system guarantees unmatched facial recognition accuracy while also giving HR managers and department heads deep insights into their workforce dynamics.
+## Build With
+- Python
+- Sqlite3
+- tkinter
+- LBPH Algorithm
+
+## Getting Started
+- To get a local copy up and running follow these simple steps.
+
+## Installation
+
+Clone the repo
+
+```bash
+git clone https://github.com/Prathamtamboli2309/employee_attendance_system_using_facerecognition.git
+
+```
+Install Dependencies:
+```bash
+ pip install -r requirements.txt
+
+```
+Run the Application:
+
+```bash
+ python desktopUI.py
+
+```
+
+    
 ## Features
 
 - Face Recognition: Utilizes cutting-edge facial recognition techniques to accurately identify and verify employees.
@@ -28,25 +71,3 @@ This project is an advanced Employee Attendance System leveraging the power of f
 
 
 
-
-## Installation
-
-Install my-project with npm
-
-```bash
-git clone https://github.com/Prathamtamboli2309/employee_attendance_system_using_facerecognition.git
-
-```
-Install Dependencies:
-```bash
- pip install -r requirement.txt
-
-```
-Run the Application:
-
-```bash
- python desktopUI.py
-
-```
-
-    
